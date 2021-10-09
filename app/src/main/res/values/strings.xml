@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignmnet 1</string>
+    <string name="about_owner">About Owner</string>
+
+    <string name="hours_worked">Worked Hours</string>
+
+</resources>
